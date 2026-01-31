@@ -1,6 +1,6 @@
 # 🤖 COBRA-BOT AI: Agente de Cobranzas Inteligente con Flet & LangGraph
 
-## 👥 Integrantes (Grupo 11)
+## 👥 Integrantes (Grupo 11) - 404 My PC Not found 
 * *Erick Josue Rodas Quimis*
 * *George Anthony Peñafiel Alvarado*
 
@@ -17,10 +17,11 @@ Sistema inteligente de gestión de cobranzas desarrollado con *Python* y *Flet* 
 
 ## 🚀 Cómo ejecutar
 1.  Instalar dependencias: pip install -r requirements.txt
-2.  Configurar API Key en src/main.py.
-3.  Ejecutar: python src/main.py
-
+2.  Configurar API Key en src/agente_cobranza.py.
+3.  Ejecutar: python src/agente_cobranza.py
+Enlace para API gratuita: https://aistudio.google.com/prompts/new_chat
 ## 🎥 Video Demo
 
 [PEGAR AQUÍ TU LINK DEL VIDEO]
+
 
