@@ -7,7 +7,7 @@
 ## 📝 Descripción del Proyecto
 Sistema inteligente de gestión de cobranzas desarrollado con *Python* y *Flet* (interfaz gráfica moderna). Utiliza *LangGraph* para orquestar un flujo de trabajo agéntico que permite:
 1.  *Gestión de Cartera:* CRUD completo (Crear, Leer, Actualizar, Borrar) de deudores en CSV.
-2.  *Generación de Speech:* Utiliza *Google Gemini 2.5* para redactar guiones de cobro hiperpersonalizados según el perfil de riesgo.
+2.  *Generación de Speech:* Utiliza *Google Gemini 2.5 flash* para redactar guiones de cobro hiperpersonalizados según el perfil de riesgo.
 
 ## ⚙️ Tecnologías Utilizadas
 * *Frontend:* Flet (UI reactiva en Python).
@@ -23,3 +23,4 @@ Sistema inteligente de gestión de cobranzas desarrollado con *Python* y *Flet* 
 ## 🎥 Video Demo
 
 [PEGAR AQUÍ TU LINK DEL VIDEO]
+
