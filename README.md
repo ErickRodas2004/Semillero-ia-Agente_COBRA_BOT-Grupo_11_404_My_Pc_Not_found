@@ -19,9 +19,10 @@ Sistema inteligente de gestión de cobranzas desarrollado con *Python* y *Flet* 
 1.  Instalar dependencias: pip install -r requirements.txt
 2.  Configurar API Key en src/agente_cobranza.py.
 3.  Ejecutar: python src/agente_cobranza.py
-Enlace para API gratuita: https://aistudio.google.com/prompts/new_chat
+4.  Enlace para API gratuita: https://aistudio.google.com/prompts/new_chat
 ## 🎥 Video Demo
 
 [PEGAR AQUÍ TU LINK DEL VIDEO]
+
 
 
