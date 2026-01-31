@@ -1,0 +1,21 @@
+flet
+pandas
+langchain-google-genai
+langgraph
+#Framework de testing
+pytest
+pytest-asyncio
+
+# Utilidades
+openpyxl
+tabulate
+
+# LangChain Core
+langchain
+langchain-core
+
+#Google Generative AI
+google-generativeai
+
+#Variables de entorno
+python-dotenv
