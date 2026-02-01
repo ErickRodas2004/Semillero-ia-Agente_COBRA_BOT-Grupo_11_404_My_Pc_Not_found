@@ -21,8 +21,8 @@ Sistema inteligente de gestión de cobranzas desarrollado con *Python* y *Flet* 
 3.  Ejecutar: python src/agente_cobranza.py
 4.  Enlace para API gratuita: https://aistudio.google.com/prompts/new_chat
 ## 🎥 Video Demo
+https://youtu.be/xWW9XwaGcjc
 
-[PEGAR AQUÍ TU LINK DEL VIDEO]
 
 
 
